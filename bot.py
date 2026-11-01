@@ -46,11 +46,11 @@ def get_uptime():
     minutes, seconds = divmod(remainder, 60)
     return f"{days}d {hours}h {minutes}m {seconds}s"
 
-TOKEN = '9263489094:AAEq6PFR9EcVWWM4HhLtmxv0YKDi7VhemF0'
-OWNER_ID = 6307458990
-ADMIN_ID = 6307458990
-YOUR_USERNAME = '@Boomzsupport'
-UPDATE_CHANNEL = 'https://t.me/Boomzsupport'
+TOKEN = '8705783963:AAHopa4KOldA2hdkgXP5LDrVygY8okCWxJA'
+OWNER_ID = 5839586443
+ADMIN_ID = 5839586443
+YOUR_USERNAME = '@Zindadil07'
+UPDATE_CHANNEL = 'https://t.me/Tempmailmujju_07'
 
 A4F_API_URL = "https://samuraiapi.in/v1/chat/completions"
 A4F_API_KEY = "sk-NK6SS9tpWghyFJwkZLoCis1sMaF6RwQ5WF09mUoKKR0VKCm7"
