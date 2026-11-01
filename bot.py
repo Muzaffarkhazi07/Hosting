@@ -47,10 +47,10 @@ def get_uptime():
     return f"{days}d {hours}h {minutes}m {seconds}s"
 
 TOKEN = '9184219527:AAHulUAg1hp9uCqdf_Ypt7PwT3juzYebgiw'
-OWNER_ID = 8731526548
-ADMIN_ID = 8731526548
-YOUR_USERNAME = '@blacksytem90'
-UPDATE_CHANNEL = 'https://t.me/blacksytem9090'
+OWNER_ID = 6307458990
+ADMIN_ID = 6307458990
+YOUR_USERNAME = '@Boomzsupport'
+UPDATE_CHANNEL = 'https://t.me/Boomzsupport'
 
 A4F_API_URL = "https://samuraiapi.in/v1/chat/completions"
 A4F_API_KEY = "sk-NK6SS9tpWghyFJwkZLoCis1sMaF6RwQ5WF09mUoKKR0VKCm7"
